@@ -1,29 +1,20 @@
-<!DOCTYPE html>
-    <html>
-    <head>
-      <meta charset='utf-8'>
-      <meta name='viewport' content='width=device-width'>
-      <title>Privacy Policy</title>
-      <style> body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding:1em; } </style>
-    </head>
-    <body>
-    <strong>Privacy Policy</strong> <p>
+**Privacy Policy**
                   Inhumanity Studios built the Dystopia App mobile game with
                   the intention for Ad monetization. This game is provided by
                   Inhumanity Studios at no cost to Players and is intended for use as
                   is.
-                </p> <p>
+                
                   This page is used to inform visitors regarding Inhumanity Studios
                   policies with the collection, use, and disclosure of Personal
                   Information if anyone decided to use my Service.
-                </p> <p>
+                
                   If you choose to play Dystopia App Mobile Game, then you agree to
                   the collection and use of information in relation to this
                   policy. The Personal Information that Is collected is
                   used for providing and improving the Service. Inhumanity Studios will not use or share your information with
                   anyone except as described in this Privacy Policy.
-                </p> <p>
-                  The terms used in this Privacy Policy have the same meanings
+                
+                The terms used in this Privacy Policy have the same meanings
                   as in our Terms and Conditions, which are accessible at
                   Dystopia App Homepage unless otherwise defined in this Privacy Policy.
                 </p> <p><strong>Information Collection and Use</strong></p> <p>
@@ -31,13 +22,10 @@
                   may require you to provide us with certain personally
                   identifiable information, including but not limited to Geolocation. The information that
                   We request will be retained on your device and is not collected by Inhumanity Studios in any way.
-                </p> <div><p>
+                
                     The app does use third-party services that may collect
                     information used to identify you.
-                  </p> <p>
-                    Link to the privacy policy of third-party service providers used
-                    by the app
-                  </p> <ul><li><a href="https://www.google.com/policies/privacy/" target="_blank" rel="noopener noreferrer">Google Play Services</a></li><li><a href="https://support.google.com/admob/answer/6128543?hl=en" target="_blank" rel="noopener noreferrer">AdMob</a></li><!----><!----><!----><!----><!----><!----><!----><li><a href="https://www.appodeal.com/home/privacy-policy/" target="_blank" rel="noopener noreferrer">Appodeal</a></li><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><li><a href="https://www.adcolony.com/privacy-policy/" target="_blank" rel="noopener noreferrer">AdColony</a></li><!----><!----><!----><li><a href="https://godotengine.org/privacy-policy" target="_blank" rel="noopener noreferrer">Godot</a></li><!----><!----><!----></ul></div> <p><strong>Log Data</strong></p> <p>
+                
                   I want to inform you that whenever you
                   play Dystopia App, in a case of an error in the app
                   We collect data and information (through third-party
@@ -47,12 +35,11 @@
                   configuration of the app when utilizing my Service,
                   the time and date of your use of the Service, and other
                   statistics.
-                </p> <p><strong>Cookies</strong></p> <p>
+**Cookies**
                   Cookies are files with a small amount of data that are
                   commonly used as anonymous unique identifiers. These are sent
                   to your browser from the websites that you visit and are
                   stored on your device's internal memory.
-                </p> <p>
                   This Service does not use these “cookies” explicitly. However,
                   the app may use third-party code and libraries that use
                   “cookies” to collect information and improve their services.
@@ -60,23 +47,26 @@
                   and know when a cookie is being sent to your device. If you
                   choose to refuse our cookies, you may not be able to use some
                   portions of this Service.
-                </p> <p><strong>Service Providers</strong></p> <p>
+**Service Providers**
                   We may employ third-party companies and
                   individuals due to the following reasons:
-                </p> <ul><li>To facilitate our Service;</li> <li>To provide the Service on our behalf;</li> <li>To perform Service-related services; or</li> <li>To assist us in analyzing how our Service is used.</li></ul> <p>
+                (1)To facilitate our Service;
+                (2)To provide the Service on our behalf;
+                (3)To perform Service-related services; 
+                (4) To assist us in analyzing how our Service is used.
                   We want to inform users of this Service
                   that these third parties have access to their Personal
                   Information. The reason is to perform the tasks assigned to
                   them on our behalf. However, they are obligated not to
                   disclose or use the information for any other purpose.
-                </p> <p><strong>Security</strong></p> <p>
+**Security**
                   We value your trust in providing us your
                   Personal Information, thus we are striving to use commercially
                   acceptable means of protecting it. But remember that no method
                   of transmission over the internet, or method of electronic
                   storage is 100% secure and reliable, and I cannot
                   guarantee its absolute security.
-                </p> <p><strong>Links to Other Sites</strong></p> <p>
+**Links to Other Sites**
                   This Service may contain links to other sites. If you click on
                   a third-party link, you will be directed to that site. Note
                   that these external sites are not operated by us.
@@ -85,7 +75,7 @@
                   no control over and assume no responsibility for the content,
                   privacy policies, or practices of any third-party sites or
                   services.
-                </p> <p><strong>Children’s Privacy</strong></p> <div><p>
+**Children’s Privacy**
                     These Services do not address anyone under the age of 13.
                     We do not knowingly collect personally
                     identifiable information from children under 13 years of age. In the case
@@ -95,16 +85,14 @@
                     and you are aware that your child has provided us with
                     personal information, please contact us so that
                     We will be able to do the necessary actions.
-                  </p></div> <!----> <p><strong>Changes to This Privacy Policy</strong></p> <p>
+**Changes to This Privacy Policy**
                   Inhumanity Studios may update our Privacy Policy from
                   time to time. Thus, you are advised to review this page
                   periodically for any changes. We will
                   notify you of any changes by posting the new Privacy Policy on
                   this page.
-                </p> <p>This policy is effective as of 2024-02-12</p> <p><strong>Contact Us</strong></p> <p>
+                  This policy is effective as of 2024-02-12
+**Contact Us**
                   If you have any questions or suggestions about our
                   Privacy Policy, do not hesitate to contact inhumanitystudios at inhumanityarts@gmail.com.
-                </p> 
-    </body>
-    </html>
-      
+              
